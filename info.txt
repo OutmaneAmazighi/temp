@@ -1,0 +1,4 @@
+app name: 
+stickman xmas wheelie
+
+packagename: com.stickman.xmaswheelie
